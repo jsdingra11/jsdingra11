@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Jashanpreet Singh Dingra!
 
-<!--
-**jsdingra11/jsdingra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **BS-MS student in Physics** at **GFTI Amritsar**, aspiring **astrophysicist** with a keen interest in data analysis and astrophysical phenomena.
 
-Here are some ideas to get you started:
+## 🌌 My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I actively participate in:
+
+- **SDSS Data Analysis**
+  - AGN Classification
+  - Analysis of Star-Forming Galaxies
+  - Studying AGN Feedback on Star Formation
+
+### 🔭 Notable Projects
+- Correlation of Masses of AGNs Host Galaxies Black Hole with Velocity Disersion.
+- Analyzed the **Crab Pulsar Slowdown Rate** using data from **Astrosat**.
+
+## 🎓 Education & Outreach
+I am dedicated to promoting equitable science communication and inspiring youth to pursue STEM careers. Currently, I serve as:
+
+- **ISRO Space Tutor**
+- **NSEA Scholar**
+- **International Astronomy and Astrophysics Competition Ambassador**
+
+### 🌟 Founder of DAC
+I founded the **Dingratro Club (DAC)** to educate, inspire, and mentor the next generation of astronomers and science educators. Check it out [here](https://dingrastroclub.github.io).
+
+## 📱 Connect with Me
+Follow my journey and explore open-source tools and blogs about astronomy on my social media account:
+
+- **Instagram:** [@astrodingra](https://instagram.com/astrodingra)
+- **Mail:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)
+
+## 🌐 Personal Website
+Visit my website for more information: [astrodingra.github.io](https://astrodingra.github.io)
+
+
+---
+
+Feel free to reach out if you're interested in collaboration or if you have any questions about astrophysics!
