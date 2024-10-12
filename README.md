@@ -1,3 +1,7 @@
+> **Note**: My old GitHub account, `astrodingra`, is no longer active.  
+> All my research and analysis code will now be available here at **`jsdingra11`**.
+
+---
 # 👋 Hi, I'm Jashanpreet Singh Dingra!
 
 I am a passionate **BS-MS student in Physics** at **GFTI Amritsar**, aspiring **astrophysicist** with a keen interest in data analysis and astrophysical phenomena.
