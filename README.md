@@ -4,41 +4,19 @@
 ---
 # 👋 Hi, I'm Jashanpreet Singh Dingra!
 
-I am a passionate **BS-MS student in Physics** at **GFTI Amritsar**, aspiring **astrophysicist** with a keen interest in data analysis and astrophysical phenomena.
+# 🌌 Welcome to Astrodingra's GitHub!  
 
-## 🌌 My Work
+Hi! I'm a **BSc Physics student** at **Guru Nanak Dev University** with a passion for astronomy, coding, and research.  
 
-I actively participate in:
+## 🌟 About Me  
 
-- **SDSS Data Analysis**
-  - AGN Classification
-  - Analysis of Star-Forming Galaxies
-  - Studying AGN Feedback on Star Formation
+- **Astronomy Enthusiast:** Founder of an **Astronomy Club** and ISRO-certified **Space Tutor**.  
+- **Researcher:** Exploring Seyfert Type 2 galaxies, AGNs, and LINERs. Winner of the **Best Oral Presentation Award** at an international conference.  
+- **Hackathon Participant:** Skilled in Python, SQL, and Machine Learning, with experience in astrophysical data analysis.  
 
-### 🔭 Notable Projects
-- Correlation of Masses of AGNs Host Galaxies Black Hole with Velocity Disersion.
-- Analyzed the **Crab Pulsar Slowdown Rate** using data from **Astrosat**.
+## 💻 Skills  
 
-## 🎓 Education & Outreach
-I am dedicated to promoting equitable science communication and inspiring youth to pursue STEM careers. Currently, I serve as:
+Python | SQL | Machine Learning | Spectral Analysis  
 
-- **ISRO Space Tutor**
-- **NSEA Scholar**
-- **International Astronomy and Astrophysics Competition Ambassador**
-
-### 🌟 Founder of DAC
-I founded the **Dingratro Club (DAC)** to educate, inspire, and mentor the next generation of astronomers and science educators. Check it out [here](https://dingrastroclub.github.io).
-
-## 📱 Connect with Me
-Follow my journey and explore open-source tools and blogs about astronomy on my social media account:
-
-- **Instagram:** [@astrodingra](https://instagram.com/astrodingra)
-- **Mail:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)
-
-## 🌐 Personal Website
-Visit my website for more information: [astrodingra.github.io](https://astrodingra.github.io)
-
-
----
-
-Feel free to reach out if you're interested in collaboration or if you have any questions about astrophysics!
+📫 Reach out at astrodingra@gmail.com  
+✨ “The universe is under no obligation to make sense to you.”  
