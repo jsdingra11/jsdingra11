@@ -4,8 +4,6 @@
 ---
 # 👋 Hi, I'm Jashanpreet Singh Dingra!
 
-# 🌌 Welcome to Astrodingra's GitHub!  
-
 Hi! I'm a **BSc Physics student** at **Guru Nanak Dev University** with a passion for astronomy, coding, and research.  
 
 ## 🌟 About Me  
