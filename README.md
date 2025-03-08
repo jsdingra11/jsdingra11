@@ -25,7 +25,7 @@
 ## 💻 Tech Stack  
 
 #### Programming & Development  
-[![My Skills](https://skillicons.dev/icons?i=matlab,python,sql,html,css,php,js,flask&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,python,latex,r,mysql,html,css,php,js,flask&perline=4)](https://skillicons.dev)
 ---
 
 ## 📬 Connect with Me  
