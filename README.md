@@ -17,7 +17,7 @@
 - 🔭 **BSc Physics student** at **Guru Nanak Dev University**  
 - 🪐 Founder of an **Astronomy Club** & ISRO-certified **Space Tutor**  
 - 🌌 **Researcher** in AGNs, Seyfert Type 2 galaxies & LINERs  
-- 🏆 Winner of the **Best Oral Presentation Award** (International Conference)  
+- 🏆 Winner of the **Best Oral Presentation Award** (International Conference On Nuclear Physics and its Application: ICNPA 2024)  
 - 👨‍💻 Skilled in **Matlab, Python, SQL, Machine Learning** & Astrophysical Data Analysis  
 
 ---
