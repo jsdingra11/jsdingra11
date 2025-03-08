@@ -1,6 +1,8 @@
 <!-- Add a cover image (Replace with your own hosted image URL) -->
 
-
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Jashanpreet Singh Dingra Banner" width="100%">
+</p>
 > **Note**: My old GitHub account, `astrodingra`, is no longer active.  
 > All my research and analysis code will now be available here at **`jsdingra11`**.  
 
@@ -11,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/jsdingra11"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ## 🌟 About Me  
