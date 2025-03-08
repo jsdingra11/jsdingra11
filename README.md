@@ -3,8 +3,8 @@
 <p align="center">
   <img src="github.png" alt="Jashanpreet Singh Dingra Banner" width="100%">
 </p>
-> **Note**: My old GitHub account, `astrodingra`, is no longer active.  
-> All my research and analysis code will now be available here at **`jsdingra11`**.  
+`**Note**: My old GitHub account, `astrodingra`, is no longer active.`
+`All my research and analysis code will now be available here at **`jsdingra11`**.`
 
 ---
 
