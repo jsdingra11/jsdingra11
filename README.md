@@ -1,7 +1,7 @@
 <!-- Add a cover image (Replace with your own hosted image URL) -->
 
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Jashanpreet Singh Dingra Banner" width="100%">
+  <img src="github.png" alt="Jashanpreet Singh Dingra Banner" width="100%">
 </p>
 > **Note**: My old GitHub account, `astrodingra`, is no longer active.  
 > All my research and analysis code will now be available here at **`jsdingra11`**.  
