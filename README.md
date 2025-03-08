@@ -43,7 +43,7 @@
 ## 📬 Connect with Me  
 
 📧 **Email:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)  
-🌍 **Website:** [Beacons][https://beacons.ai/astrodingra]
+🌍 **Website:** [Beacons](https://beacons.ai/astrodingra)
 
 > *"The universe is under no obligation to make sense to you."*  
 
