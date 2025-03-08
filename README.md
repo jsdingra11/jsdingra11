@@ -10,11 +10,11 @@ Hi! I'm a **BSc Physics student** at **Guru Nanak Dev University** with a passio
 
 - **Astronomy Enthusiast:** Founder of an **Astronomy Club** and ISRO-certified **Space Tutor**.  
 - **Researcher:** Exploring Seyfert Type 2 galaxies, AGNs, and LINERs. Winner of the **Best Oral Presentation Award** at an international conference.  
-- **Hackathon Participant:** Skilled in Python, SQL, and Machine Learning, with experience in astrophysical data analysis.  
+- Skilled in Matlab, Python, SQL, and Machine Learning, with experience in astrophysical data analysis.  
 
 ## 💻 Skills  
 
-Python | SQL | Machine Learning | Spectral Analysis  
+Python | SQL | Machine Learning | Astronomy Research Analysis | HTML | CSS | Js | PhP | Flask | Full Stack Development
 
 📫 Reach out at astrodingra@gmail.com  
 ✨ “The universe is under no obligation to make sense to you.”  
