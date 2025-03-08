@@ -1,20 +1,52 @@
+<!-- Add a cover image (Replace with your own hosted image URL) -->
+
+
 > **Note**: My old GitHub account, `astrodingra`, is no longer active.  
-> All my research and analysis code will now be available here at **`jsdingra11`**.
+> All my research and analysis code will now be available here at **`jsdingra11`**.  
 
 ---
-# 👋 Hi, I'm Jashanpreet Singh Dingra!
 
-Hi! I'm a **BSc Physics student** at **Guru Nanak Dev University** with a passion for astronomy, coding, and research.  
+<h1 align="center">👋 Hi, I'm Jashanpreet Singh Dingra!</h1>
+
+<p align="center">
+  <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
+  <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/jsdingra11"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
 ## 🌟 About Me  
 
-- **Astronomy Enthusiast:** Founder of an **Astronomy Club** and ISRO-certified **Space Tutor**.  
-- **Researcher:** Exploring Seyfert Type 2 galaxies, AGNs, and LINERs. Winner of the **Best Oral Presentation Award** at an international conference.  
-- Skilled in Matlab, Python, SQL, and Machine Learning, with experience in astrophysical data analysis.  
+- 🔭 **BSc Physics student** at **Guru Nanak Dev University**  
+- 🪐 Founder of an **Astronomy Club** & ISRO-certified **Space Tutor**  
+- 🌌 **Researcher** in AGNs, Seyfert Type 2 galaxies & LINERs  
+- 🏆 Winner of the **Best Oral Presentation Award** (International Conference)  
+- 👨‍💻 Skilled in **Matlab, Python, SQL, Machine Learning** & Astrophysical Data Analysis  
 
-## 💻 Skills  
+---
 
-Python | SQL | Machine Learning | Astronomy Research Analysis | HTML | CSS | Js | PhP | Flask | Full Stack Development
+## 💻 Tech Stack  
 
-📫 Reach out at astrodingra@gmail.com  
-✨ “The universe is under no obligation to make sense to you.”  
+#### Programming & Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 📬 Connect with Me  
+
+📧 **Email:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)  
+🌍 **Website:** [Beacons][https://beacons.ai/astrodingra]
+
+> *"The universe is under no obligation to make sense to you."*  
+
+---
+
+### 🚀 Check out my latest projects on [GitHub](https://github.com/jsdingra11)  
+
+---
