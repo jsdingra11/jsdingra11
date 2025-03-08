@@ -2,10 +2,6 @@
 > **Note**: My old GitHub account, astrodingra, is no longer active.  
 > All my research and analysis code will now be available here at **jsdingra11**.
 
-<p align="center">
-  <img src="github.png" alt="Jashanpreet Singh Dingra Banner" width="100%">
-</p>
-
 ---
 
 <h1 align="center">👋 Hi, I'm Jashanpreet Singh Dingra!</h1>
