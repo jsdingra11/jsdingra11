@@ -25,7 +25,7 @@
 ## 💻 Tech Stack  
 
 #### Programming & Development  
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
