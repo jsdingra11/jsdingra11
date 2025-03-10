@@ -18,7 +18,7 @@
 - 🪐 Founder of an **Astronomy Club** & ISRO-certified **Space Tutor**  
 - 🌌 **Researcher** in AGNs, Seyfert Type 2 galaxies & LINERs  
 - 🏆 Winner of the **Best Oral Presentation Award** (International Conference On Nuclear Physics and its Application: ICNPA 2024)  
-- 👨‍💻 Skilled in **Matlab, Python, SQL, Machine Learning** & Astrophysical Data Analysis  
+- 👨‍💻 Skilled in **Matlab, Python, SQL, Machine Learning** & Astronomy Data Analysis  
 
 ---
 
