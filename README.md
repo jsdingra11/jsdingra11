@@ -25,9 +25,9 @@
 ## 💻 Tech Stack  
 
 #### Programming & Development  
-[![My Skills](https://skillicons.dev/icons?i=matlab,python,julia,latex,r,mysql,html,css,php,js,flask,cpp,arduino&perline=4)](https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/)
----
-![LeetCode Stats](https://leetcard.jacoblin.cool/astrodingra?theme=nord&font=Alef)
+[![My Skills](https://skillicons.dev/icons?i=matlab,python,julia,latex,r,mysql,html,css,php,js,flask,cpp,arduino&perline=2)](https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/)  
+---  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/astrodingra?theme=nord&font=Alef)](https://leetcode.com/astrodingra)  
 
 ## 📬 Connect with Me  
 
