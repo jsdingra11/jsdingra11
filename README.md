@@ -10,12 +10,12 @@
   <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
-</p>
-🔭 Some astronomy and data analysis Python packages that I develop:
 
-| Package | Description | |
-|---------|------------|--|
-| [galamo](https://pypi.org/project/galamo/) | A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research. | ![Galamo Logo](https://github.com/jsdingra11/o.svg) |
+<p>
+  🔭 Some astronomy and data analysis Python packages that I develop:<br>
+  - <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
+  <img src="https://raw.githubusercontent.com/your-repo-path/galamo-logo.png" alt="Galamo Logo" width="100" align="right">
+</p>
 
 ## 🌟 About Me  
 
