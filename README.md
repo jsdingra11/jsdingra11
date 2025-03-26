@@ -15,11 +15,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     🔭 Some astronomy and data analysis Python packages that I develop:<br>
+    <div>
+    <img src="galamo_main.svg" alt="Galamo Logo" width="100">
+  </div>
     - <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
   </div>
-  <div>
-    <img src="o.svg" alt="Galamo Logo" width="100">
-  </div>
+  
 </div>
 
 
