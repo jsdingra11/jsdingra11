@@ -52,7 +52,3 @@
 > *"The universe is under no obligation to make sense to you."*  
 
 ---
-
-### 🚀 Check out my latest projects on [GitHub](https://github.com/jsdingra11)  
-
----
