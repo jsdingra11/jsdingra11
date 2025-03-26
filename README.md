@@ -42,7 +42,7 @@
 ## 💻 Tech Stack  
 
 #### Programming & Development  
-[![My Skills](https://skillicons.dev/icons?i=matlab,python,julia,latex,r,mysql,html,css,php,js,flask,cpp,arduino&perline=4)](https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/)
+[![My Skills](https://skillicons.dev/icons?i=matlab,python,julia,latex,r,mysql,html,css,php,js,flask,cpp,arduino&perline=2)](https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/)
 
 ## 📬 Connect with Me  
 
