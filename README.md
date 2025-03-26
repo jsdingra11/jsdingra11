@@ -13,8 +13,8 @@
 
 <p>
   🔭 Some astronomy and data analysis Python packages that I develop:<br>
-  - <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
-  <img src="https://raw.githubusercontent.com/your-repo-path/galamo-logo.png" alt="Galamo Logo" width="100" align="right">
+  ◦ <a href="https://pypi.org/project/galamo/"><b>galamo</b></a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
+  <img src="galamo_main.svg" alt="Galamo Logo" width="100" align="right">
 </p>
 
 ## 🌟 About Me  
