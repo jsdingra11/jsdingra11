@@ -12,16 +12,19 @@
   <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    🔭 Some astronomy and data analysis Python packages that I develop:<br>
-    <div>
-    <img src="galamo_main.svg" alt="Galamo Logo" width="100">
-  </div>
+🔭 Some astronomy and data analysis Python packages that I develop:
+
+<table>
+<tr>
+  <td>
     - <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
-  </div>
-  
-</div>
+  </td>
+  <td align="right">
+    <img src="galamo_main.svg" alt="Galamo Logo" width="100">
+  </td>
+</tr>
+</table>
+
 
 
 
