@@ -11,7 +11,6 @@
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
 
-<!--
 🔭 Some astronomy and data analysis Python packages that I develop:
 
 <table>
@@ -25,7 +24,7 @@
     </a>
   </td>
 </tr>
-</table>-->
+</table>
 
 
 
