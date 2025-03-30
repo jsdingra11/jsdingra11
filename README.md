@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi Universe, I'm Jashanpreet Singh Dingra!</h1>
 
 <p align="center">
-  <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
+  <!--<a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>-->
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
 
