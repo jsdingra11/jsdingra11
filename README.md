@@ -10,7 +10,8 @@
   <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
-![Profile views](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/galamo.org.github.io/visits)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jsdingra11.jsdingra11)
+
 
 🔭 Some astronomy and data analysis Python packages that I develop:
 
