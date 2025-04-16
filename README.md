@@ -11,7 +11,7 @@
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdingra11&label=Profile%20views&color=0e75b6&style=flat" alt="jsdingra11" /> </p>
 
 🔭 Some astronomy and data analysis Python packages that I develop:
 
