@@ -49,7 +49,4 @@
 ## 📬 Let's get connected
 
 📧 **Email:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)  
-
-> *"The universe is under no obligation to make sense to you."*  
-
 ---
