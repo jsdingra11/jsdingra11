@@ -1,6 +1,6 @@
 <!-- Add a cover image (Replace with your own hosted image URL) -->
 > My old github account, `astrodingra`, is no longer active.  
-> All my research and analysis code will now be available here at **jsdingra11**.
+> All my research and analysis code will now be available here at **jsdingra11**. <br>
 > Thank you!
 
 ---
