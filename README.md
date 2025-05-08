@@ -17,7 +17,7 @@
 <table>
 <tr>
   <td>
-    • <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.\\
+    • <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.<br>
     Website: https://www.galamo.org
   </td>
   <td align="right">
