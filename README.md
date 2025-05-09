@@ -48,6 +48,8 @@
 #### Programming & Development  
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,julia,latex,r,mysql,html,css,php,js,flask,cpp,arduino&perline=8)](https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/)
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 ## 📬 Let's get connected
 
 📧 **Email:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)  
