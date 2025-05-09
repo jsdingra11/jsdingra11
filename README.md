@@ -18,7 +18,8 @@
 <tr>
   <td>
     • <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
-    Website: https://www.galamo.org <small>website under construction.</small>
+    Website: https://www.galamo.org _website under construction._
+
   </td>
   <td align="right">
     <a href="https://github.com/galamo-org/galamo/">
