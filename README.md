@@ -35,7 +35,7 @@
 
 
 ## 🌟 About Me  
-
+- 👨‍💻 **Unofficial BTech Student**
 - 🔭 **BSc Physics student** at **Guru Nanak Dev University**  
 - 🪐 Founder of an **Astronomy Club** & ISRO-certified **Space Tutor**  
 - 🌌 **Researcher** in AGNs, Seyfert Type 2 galaxies & LINERs  
