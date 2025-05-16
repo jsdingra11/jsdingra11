@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi Universe, I'm Jashanpreet Singh Dingra!</h1>
 
-<h6 align="center">my website: https://dingra.galamo.org</h6>
+<h6 align="center">Wanna know more about me? -> https://dingra.galamo.org</h6>
 
 <p align="center">
   <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
