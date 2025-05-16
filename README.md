@@ -12,5 +12,6 @@ i care about clean code, good people, open source, and galaxies.
 **my corner of the internet**  
 → [dingra.galamo.org](https://dingra.galamo.org)
 
+---
 you can talk to me  
 **email** → astrodingra@gmail.com  
