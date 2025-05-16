@@ -1,9 +1,4 @@
-<!-- Add a cover image (Replace with your own hosted image URL) -->
-> My old github account, `astrodingra`, is no longer active.  
-> All my research and analysis code will now be available here at **jsdingra11**. <br>
-> Thank you!
 
----
 
 <h1 align="center">👋 Hi Universe, I'm Jashanpreet Singh Dingra!</h1>
 
