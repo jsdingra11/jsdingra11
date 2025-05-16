@@ -1,35 +1,30 @@
+# hi, i’m jashanpreet singh dingra
 
+i’m 18. i build tools, write code, look at the sky a lot, and sometimes do research that ends up in places i didn’t expect.
 
-<h1 align="center">👋 Hi Universe, I'm Jashanpreet Singh Dingra!</h1>
-
-<h6 align="center">Wanna know more about me? -> https://dingra.galamo.org</h6>
-
-<p align="center">
-  <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/"><img src="https://img.shields.io/badge/LinkedIn-Jashanpreet-blue?style=flat-square&logo=linkedin"></a>
-
-🔭 Some astronomy and data analysis Python packages that I develop:
-
-<table>
-<tr>
-  <td>
-    • <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
-    Website: https://www.galamo.org
-
-  </td>
-  <td align="right">
-    <a href="https://github.com/galamo-org/galamo/">
-      <img src="galamo_main.svg" alt="Galamo Logo" width="400">
-    </a>
-  </td>
-</tr>
-</table>
-
-
+i care about clean code, good people, open source, and galaxies.
 
 ---
 
-## 📬 Let's get connected
+### what i'm proud of
 
-📧 **Email:** [astrodingra@gmail.com](mailto:astrodingra@gmail.com)  
+**galamo** – a python package for galaxy classification and black hole mass estimation  
+→ [galamo.org](https://www.galamo.org)  
+→ [github.com/galamo-org/galamo](https://github.com/galamo-org/galamo)
 
+**rocket flight computer** – altitude, gps, sensors, baro – solo hardware-software project  
+→ [instagram post](https://www.instagram.com/p/CxZi1EwRvNS/)
+
+**astronomy photographer of the year** – shortlisted for my image of the pleiades  
+→ [featured in forbes](https://www.forbes.com/sites/jamiecartereurope/2021/07/01/in-photos-dolphin-head-martian-sunset-and-angry-sun-star-in-astronomy-photographer-of-the-year-competition-entries/)
+
+**dingrastro** – a chill global astronomy club with people from kosovo to punjab  
+→ [dingrastroclub.github.io](https://dingrastroclub.github.io)
+
+**my corner of the internet**  
+→ [dingra.galamo.org](https://dingra.galamo.org)
+
+---
+
+talk to me  
+**email** → astrodingra@gmail.com  
