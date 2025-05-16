@@ -33,24 +33,7 @@
 
 
 
-
-
-
-## 🌟 About Me  
-
-- 👨‍💻 **Unofficial BTech Student**
-- 🔭 **BSc Physics student** at **Guru Nanak Dev University**  
-- 🪐 Founder of an **Astronomy Club** & ISRO-certified **Space Tutor**  
-- 🌌 **Researcher** in AGNs, Seyfert Type 2 galaxies & LINERs  
-- 🏆 Winner of the **Best Oral Presentation Award** (International Conference On Nuclear Physics and its Application: ICNPA 2024)  
-- 👨‍💻 Skilled in **Matlab, Python, SQL, Machine Learning** & Astronomy Data Analysis  
-
 ---
-
-## 💻 Tech Stack  
-
-#### Programming & Development  
-[![My Skills](https://skillicons.dev/icons?i=matlab,python,julia,latex,r,mysql,html,css,php,js,flask,cpp,arduino&perline=8)](https://www.linkedin.com/in/jashanpreet-singh-dingra-2046b4206/)
 
 ## 📬 Let's get connected
 
