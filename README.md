@@ -7,6 +7,7 @@
 
 <h1 align="center">👋 Hi Universe, I'm Jashanpreet Singh Dingra!</h1>
 <h6 align="center">A creation of the cosmos, building for the universe.</h6>
+<p>My Website: https://dingra.galamo.org</p>
 <p align="center">
   <a href="https://github.com/jsdingra11"><img src="https://img.shields.io/github/followers/jsdingra11?style=social" alt="GitHub Followers"></a>
   <a href="mailto:astrodingra@gmail.com"><img src="https://img.shields.io/badge/Email-astrodingra%40gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -18,7 +19,7 @@
 <tr>
   <td>
     • <a href="https://pypi.org/project/galamo/">galamo</a>: A Python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.
-    Website: https://www.galamo.org &nbsp;<h6>website under construction.</h6>
+    Website: https://www.galamo.org
 
   </td>
   <td align="right">
