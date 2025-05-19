@@ -14,9 +14,3 @@ i care about clean code, good people, open source, and galaxies.
 ---
 you can talk to me  
 **email** → astrodingra@gmail.com  
-## 🌟 Galamo Early Supporters
-
-| User | Badge |
-|------|-------|
-| @user1 | ![Badge](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |
-| @user2 | ![Badge](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |
