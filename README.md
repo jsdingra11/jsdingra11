@@ -8,7 +8,7 @@ i care about clean code, good people, open source, and galaxies.
 **galamo** – a python package for comprehensive galaxy analysis <br>
 → [galamo.org](https://www.galamo.org)  
 
-**my corner of the internet**  
+**my corner**  
 → [dingra.galamo.org](https://dingra.galamo.org)
 
 ---
