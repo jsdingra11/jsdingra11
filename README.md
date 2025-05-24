@@ -14,7 +14,7 @@ i care about clean code, good people, open source, and galaxies.
 **some silly projects** <br>
 → [shittybin](https://github.com/shittybin)
 
-Lanuage I speak:
+Lanuages I speak:
 <!-- Shields-style Badges -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
