@@ -11,6 +11,9 @@ i care about clean code, good people, open source, and galaxies.
 **my corner**  
 → [dingra.galamo.org](https://dingra.galamo.org)
 
+**some silly projects**
+→ [shittybin](https://github.com/shittybin)
+
 Lanuage I speak:
 <!-- Shields-style Badges -->
 <p align="center">
