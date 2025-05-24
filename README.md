@@ -11,7 +11,7 @@ i care about clean code, good people, open source, and galaxies.
 **my corner**  
 → [dingra.galamo.org](https://dingra.galamo.org)
 
-**some silly projects**
+**some silly projects** <br>
 → [shittybin](https://github.com/shittybin)
 
 Lanuage I speak:
