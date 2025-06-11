@@ -32,5 +32,5 @@ Lanuages I speak:
 </p>
 
 ---
-you can talk to me  
+ping me @
 **email** → astrodingra@gmail.com  
