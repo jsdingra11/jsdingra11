@@ -11,7 +11,7 @@ i care about clean code, good people, open source, and galaxies!
 → [galamo.org](https://www.galamo.org)  
 
 **my corner**  
-→ [dingra.galamo.org](https://dingra.galamo.org)  
+→ [astrodingra.in](https://www.astrodingra.in)  
 
 **some silly projects**  
 → [shittybin](https://github.com/shittybin)  
