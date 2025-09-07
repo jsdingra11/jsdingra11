@@ -37,16 +37,10 @@ i care about clean code, good people, open source, and galaxies!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 </p>  
+
 ---
 
-### computational physics #educationforall
-
-<a href="https://www.youtube.com/watch?v=1lXaKEy97qE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1lXaKEy97qE&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=1lXaKEy97qE&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="GitHub Star Swag Unboxing and Giveaways">
-  </picture>
-</a>
+**computational physics series** --> https://youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w&si=Zi-gDh-_83fU765M
 
 ---
 
