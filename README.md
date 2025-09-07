@@ -37,6 +37,11 @@ i care about clean code, good people, open source, and galaxies!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 </p>  
+---
+### computational physics #educationforall
+
+[🎥 Check out my YouTube Playlist](https://youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w&si=y1l57rIFMXnDTS1d)
+
 
 ---
 
