@@ -7,7 +7,7 @@ i care about clean code, good people, open source, and galaxies!
 
 ### what i'm proud of →  
 
-**galamo** – a python package for comprehensive galaxy analysis  (Under Review in JOSS)
+**galamo** – a python package for comprehensive galaxy analysis  (Under Review in JOSS) <br>
 → [galamo.org](https://www.galamo.org)  
 
 **my corner**  
