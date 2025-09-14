@@ -7,7 +7,7 @@ i care about clean code, good people, open source, and galaxies!
 
 ### what i'm proud of →  
 
-### <- astro-pipelines ->
+##### <- astro-pipelines ->
 
 **galamo** – a python package for comprehensive galaxy analysis  <br>
 → [galamo.org](https://www.galamo.org)
