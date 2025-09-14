@@ -6,9 +6,12 @@ i care about clean code, good people, open source, and galaxies!
 ---
 
 ### what i'm proud of →  
-
+- astro-pipelines - 
 **galamo** – a python package for comprehensive galaxy analysis  <br>
-→ [galamo.org](https://www.galamo.org)  
+→ [galamo.org](https://www.galamo.org)
+
+**vdisp_fit** - an automate pipeline for stellar velocity velocity dispersion measurement <br>
+→ [vdisp_fit](https://github.com/jsdingra11/vdisp_fit/)
 
 **my corner**  
 → [astrodingra.in](https://www.astrodingra.in)  
