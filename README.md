@@ -45,3 +45,4 @@ I'm a M.Sc. FYIP Physics 2 year Student @ Guru Nanak Dev University, Amritsar, I
 * Email → [astrodingra@gmail.com](mailto:astrodingra@gmail.com)
 * LinkedIn → [Jashanpreet Singh Dingra](https://www.linkedin.com/in/jashanpreet-singh-dingra-3046b4306/)
 * Website → [https://www.astrodingra.in](https://www.astrodingra.in)
+* Cv -> [cv_jsdingra.pdf](https://www.astrodingra.in/cv_jsdingra.pdf)
