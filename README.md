@@ -4,7 +4,7 @@ i’m 18. i build tools, write code, look at the sky a lot, and sometimes do res
 i care about clean code, good people, open source, and galaxies!  
 
 ---
-<a href="http://www.galpy.org" target="_blank"><img align="right" src="https://galpy.readthedocs.io/en/latest/_static/galpy-logo-small.gif" alt="galpy logo" width=180px height=180px></a>
+<a href="http://www.galamo.org" target="_blank"><img align="right" src="https://avatars.githubusercontent.com/u/204757619?s=400&u=a25bb2e77d2962a299f5bc768628abfe577ce5ed&v=4" alt="galamo logo" width=180px height=180px></a>
 ### what i'm proud of →  
 
 ##### <- astro-pipelines ->
