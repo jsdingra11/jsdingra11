@@ -10,10 +10,9 @@ I'm an 🌌 *astronomy enthusiast* 🌌 and *software developer* passionate abou
   * [**galamo**](https://www.galamo.org): A Python package for comprehensive galaxy analysis
   * [**vdisp\_fit**](https://github.com/jsdingra11/vdisp_fit/): An automated pipeline for stellar velocity dispersion measurement
 
-* 🌐 Some personal and silly projects:
+* 🚀 My Homepage:
 
-  * [My personal website](https://www.astrodingra.in)
-  * [Shittybin](https://github.com/shittybin): Fun experimental projects
+  * [www.astrodingra.in](https://www.astrodingra.in)
 
 <a href="https://youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w&si=Zi-gDh-_83fU765M" target="_blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Playlist" width=180px height=80px></a>
 
