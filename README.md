@@ -13,15 +13,13 @@ I'm a M.Sc. FYIP 2 year Student @ Guru Nanak Dev University, Amritsar, India. I 
 * 🚀 My Homepage:
 
   * [www.astrodingra.in](https://www.astrodingra.in)
-
-<a href="https://youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w&si=Zi-gDh-_83fU765M" target="_blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Playlist" width=180px height=80px></a>
-
+  * 
 * 👨‍🏫 Some online courses that I am working on:
   * [Computational Physics/Astrophysics Using Python](https://github.com/GNDU-Physics/gndu_python25): An interactive, online graduate textbook on the astrophysics of galaxies
 
 ---
 
-### 💻 My Development Stack
+### 💻 My DNA
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
