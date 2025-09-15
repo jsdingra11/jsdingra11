@@ -16,8 +16,8 @@ I'm an 🌌 *astronomy enthusiast* 🌌 and *software developer* passionate abou
 
 <a href="https://youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w&si=Zi-gDh-_83fU765M" target="_blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Playlist" width=180px height=80px></a>
 
-* 📺 Computational Physics Series →
-  [Watch on YouTube](https://youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w&si=Zi-gDh-_83fU765M)
+* 👨‍🏫 Some online courses that I am working on:
+  * [Computational Physics/Astrophysics Using Python](https://github.com/GNDU-Physics/gndu_python25): An interactive, online graduate textbook on the astrophysics of galaxies
 
 ---
 
