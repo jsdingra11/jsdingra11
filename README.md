@@ -4,16 +4,16 @@ i’m 18. i build tools, write code, look at the sky a lot, and sometimes do res
 i care about clean code, good people, open source, and galaxies!  
 
 ---
-
+<a href="http://www.galpy.org" target="_blank"><img align="right" src="https://galpy.readthedocs.io/en/latest/_static/galpy-logo-small.gif" alt="galpy logo" width=180px height=180px></a>
 ### what i'm proud of →  
 
 ##### <- astro-pipelines ->
 
 **galamo** – a python package for comprehensive galaxy analysis  <br>
-→ [galamo.org](https://www.galamo.org)
+* [galamo.org](https://www.galamo.org)
 
 **vdisp_fit** - an automate pipeline for stellar velocity velocity dispersion measurement <br>
-→ [vdisp_fit](https://github.com/jsdingra11/vdisp_fit/)
+* [vdisp_fit](https://github.com/jsdingra11/vdisp_fit/)
 
 ---
 
