@@ -3,7 +3,7 @@
 
 I'm a M.Sc. FYIP 2 year Student @ Guru Nanak Dev University, Amritsar, India. I am an 🌌 *astronomy enthusiast* 🌌 and *software developer* passionate about building tools, writing clean code, and exploring the universe. I sometimes do astrophysical research that ends up in places I didn’t expect! I care deeply about *open source*, *good people*, and *galaxies*.
 
-<a href="https://www.galamo.org" target="_blank"><img align="right" src="https://avatars.githubusercontent.com/u/304757619?s=300&u=a25bb2e77d2962a299f5bc768628abfe577ce5ed&v=4" alt="galamo logo" width=180px height=180px></a>
+<a href="https://www.galamo.org" target="_blank"><img align="right" src="https://www.galamo.org/images/galamo_main.svg" alt="galamo logo" width=180px height=180px></a>
 
 * 🔭 Some projects that I am proud of:
 
@@ -13,7 +13,7 @@ I'm a M.Sc. FYIP 2 year Student @ Guru Nanak Dev University, Amritsar, India. I 
 * 🚀 My Homepage:
 
   * [www.astrodingra.in](https://www.astrodingra.in)
-  * 
+  
 * 👨‍🏫 Some online courses that I am working on:
   * [Computational Physics/Astrophysics Using Python](https://github.com/GNDU-Physics/gndu_python25): An interactive, online graduate textbook on the astrophysics of galaxies
 
