@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Jashanpreet Singh Dingra](https://www.astrodingra.in) 👋
+### Hi Universe, I'm [Jashanpreet Singh Dingra](https://www.astrodingra.in) 👋
 
 I'm a M.Sc. FYIP Physics 2nd year Student @ Guru Nanak Dev University, Amritsar, India. I am an *astronomy enthusiast* 🌌 and *software developer* 👨‍💻 passionate about building tools, writing clean code, and exploring the universe. I sometimes do astrophysical research that ends up in places I didn’t expect! I care deeply about *open source*, *good people*, and *galaxies*.
 
