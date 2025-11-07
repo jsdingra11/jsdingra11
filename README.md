@@ -7,7 +7,7 @@ I'm a M.Sc. FYIP Physics 2nd year Student @ Guru Nanak Dev University, Amritsar,
 
 * 🔭 Some projects that I am proud of:
 
-  * [**galamo**](https://www.galamo.org): A open source Python package for comprehensive galaxy analysis.
+  * [**galamo**](https://www.galamo.org): An open source Python package for comprehensive galaxy analysis.
   * [**vdisp\_fit**](https://github.com/jsdingra11/vdisp_fit/): An automated pipeline for stellar velocity dispersion measurement.
 
 * 🚀 My Homepage:
