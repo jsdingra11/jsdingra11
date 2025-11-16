@@ -36,7 +36,7 @@ I'm a M.Sc. FYIP Physics 2nd year Student @ Guru Nanak Dev University, Amritsar,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>
- <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/assembly/assembly.png" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/assembly/assembly.png" width="37" height="37"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
 
