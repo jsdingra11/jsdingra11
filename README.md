@@ -16,6 +16,7 @@ I'm a M.Sc. FYIP Physics 2nd year Student @ Guru Nanak Dev University, Amritsar,
   
 * 👨‍🏫 Some online courses that I am working on:
   * [Computational Physics/Astrophysics Using Python](https://www.youtube.com/playlist?list=PL54Wg1cwz_jO8lR12W_DJWXkAUlpTlx4w): An interactive, online graduate textbook on the astrophysics of galaxies
+  * Guide on git: [here](https://basic-git-guide.vercel.app)
 
 ---
 
